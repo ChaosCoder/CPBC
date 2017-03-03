@@ -1,0 +1,5 @@
+module CPBC [system] {
+    header "/usr/local/include/pbc/pbc.h"
+    link "pbc"
+    export *
+}
